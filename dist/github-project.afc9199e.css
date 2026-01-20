@@ -1,0 +1,21 @@
+.profiles {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+img {
+  border-radius: 50%;
+  height: 200px;
+  margin-right: 20px;
+}
+
+.cards {
+  text-align: center;
+  border: 2px solid #000;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 20px;
+}
+/*# sourceMappingURL=github-project.afc9199e.css.map */

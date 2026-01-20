@@ -1,0 +1,21 @@
+.profiles{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+img{
+    height: 200px;
+    border-radius: 50%;
+    margin-right: 20px;
+    /* margin-top: 20px; */
+}
+
+.cards{
+    padding: 20px 20px;
+    text-align: center;
+    border: 2px black solid;
+    margin-left: 20px;
+    margin-top: 20px;
+}
