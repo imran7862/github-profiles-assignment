@@ -6,7 +6,7 @@ function Body (){
 
    async function generateProfile(){
         const response =await fetch ("https://api.github.com/users?per_page=24")
-        const data= await response.json(). // convert in json format t
+        const data= await response.json(). // convert in json format tt
 
         setProfile(data)
     }
